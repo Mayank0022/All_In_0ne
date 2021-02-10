@@ -1,4 +1,4 @@
-# breath_meter
+# Fitrev All In One.
 
 A new Flutter application.
 
